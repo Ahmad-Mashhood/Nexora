@@ -1,6 +1,6 @@
-# MERN E-Commerce Store
+# Nexora
 
-Multi-vendor marketplace: **buyers** shop and pay, **sellers** list products and receive payments, **admins** oversee the platform.
+Multi-vendor MERN e-commerce marketplace: **buyers** shop and pay, **sellers** list products and receive payments, **admins** oversee the platform.
 
 ## Roles
 
